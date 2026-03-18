@@ -69,6 +69,7 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [Kanboard](https://github.com/kanboard/kanboard) ★9204 - Kanban project management software. [PHP, MIT License].
 - [Planka](https://github.com/plankanban/planka) ★10718 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
 - [WeKan](https://github.com/wekan/wekan) ★20622 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
+- [Super Productivity](https://github.com/johannesjo/super-productivity) ★18000 - Advanced todo list app with integrated timeboxing, time tracking, and Jira/GitHub/GitLab integration. [TS, MIT License].
 
 ### Scheduling / Appointment Booking (Calendly alternatives)
 
