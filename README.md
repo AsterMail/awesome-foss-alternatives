@@ -69,6 +69,13 @@ The way we organize and manage our tasks has a significant impact on productivit
 - [Kanboard](https://github.com/kanboard/kanboard) ★9204 - Kanban project management software. [PHP, MIT License].
 - [Planka](https://github.com/plankanban/planka) ★10718 - The realtime kanban board for workgroups built with React and Redux. [JS, GNU Affero General Public License v3.0].
 - [WeKan](https://github.com/wekan/wekan) ★20622 - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only. [JS, MIT License].
+- [Super Productivity](https://github.com/johannesjo/super-productivity) ★18000 - Advanced todo list app with integrated timeboxing, time tracking, and Jira/GitHub/GitLab integration. [TS, MIT License].
+
+### Scheduling / Appointment Booking (Calendly alternatives)
+
+Self-hostable alternatives to Calendly and similar scheduling tools, letting individuals and teams share their availability and accept bookings without vendor lock-in.
+
+- [Tymeslot](https://github.com/Tymeslot/tymeslot) ★34 - Open-source meeting scheduling platform. Share your availability and let guests book time with you. [Elixir, Other license].
 
 
 ## Business
@@ -90,6 +97,12 @@ The way we organize and manage our tasks has a significant impact on productivit
 
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5076 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2530 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
+
+### Customer Feedback / Feature Voting (Canny alternatives)
+
+Platforms for collecting, organizing, and prioritizing customer feedback, feature requests, and ideas. These tools help product teams understand user needs and build better products.
+
+- [Quackback](https://github.com/QuackbackIO/quackback) - Open-source customer feedback platform with public boards, roadmaps, and changelogs. [TS, GNU Affero General Public License v3.0].
 
 ### Document Management / ECM (Documentum alternatives)
 
@@ -119,6 +132,10 @@ More:
 - [btw](https://github.com/btw-so/btw) ★1015 - Open source Medium alternative- set up your personal blog in minutes. [JS, GNU General Public License v3.0].
 - [WriteFreely](https://github.com/writefreely/writefreely) ★4913 - A clean, Markdown-based publishing platform made for writers. Write together and build a community. [Go, GNU Affero General Public License v3.0].
 
+
+### Website builder (Webflow, Wix, Squarespace alternatives)
+
+- [Silex](https://github.com/silexlabs/Silex) ★2728 - Free/libre, online tool for visually creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. [TS, GNU Affero General Public License v3.0].
 ### Web analytics (Google Analytics alternatives)
 
 - [Matomo](https://github.com/matomo-org/matomo) ★20895 - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!. [PHP, GNU General Public License v3.0].
@@ -140,6 +157,12 @@ More:
 
 - [A List of Static Site Generators for Jamstack Sites ](https://jamstack.org/generators/)
 - [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators) ★3480 - A curated list of static web site generators. [Creative Commons Zero v1.0 Universal].
+
+### SaaS Boilerplate / Starter Kit (ShipFast, Supastarter, SaaS Pegasus alternatives)
+
+These tools provide a ready-made foundation for building SaaS applications, offering built-in authentication, billing, user management, and other common SaaS features out of the box. They serve as alternatives to proprietary boilerplates like ShipFast, Supastarter, and SaaS Pegasus.
+
+- [LastSaaS](https://github.com/jonradoff/lastsaas) ★1 - Open-source SaaS platform and boilerplate with built-in authentication, Stripe billing, user management, and admin dashboard. [Go, MIT License].
 
 ## Platforms services and devops
 
@@ -242,3 +265,9 @@ This it not the first list of free / open source software. Here are some other l
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) ★2073 - Curated list of free as in freedom software. [Creative Commons Zero v1.0 Universal].
 - [Open-source alternatives](https://opensource.builders/)
 - [PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
+
+
+## Other lists
+
+* [IndieStack](https://indiestack.fly.dev/) - Directory of indie-built SaaS alternatives across 100+ categories.
+
