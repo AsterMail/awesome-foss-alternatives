@@ -95,6 +95,7 @@ Self-hostable alternatives to Calendly and similar scheduling tools, letting ind
 
 ### CRM (Salesforce alternatives)
 
+- [Customermates](https://github.com/customermates/customermates) ★0 - Open-source CRM with native n8n workflow automation, built for small B2B teams. Alternative to Pipedrive/HubSpot. [TS, GNU Affero General Public License v3.0].
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) ★5334 - SuiteCRM - Open source CRM for the world. [PHP, GNU Affero General Public License v3.0].
 - [EspoCRM](https://github.com/espocrm/espocrm) ★2846 - EspoCRM – Open Source CRM Application. [PHP, GNU Affero General Public License v3.0].
 
